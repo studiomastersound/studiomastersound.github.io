@@ -1,0 +1,66 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.login-form {
+    align-content: center;
+    align-items: center;
+    padding: 2rem;
+    width: 100%;
+}
+
+.single-form {
+    margin-top: 1rem;
+}
+
+.input_login {
+    padding: 1rem;
+}
+
+.btn_login {
+    margin-top: 2rem;
+    border-radius: 1.5rem;
+    border-color: black;
+    padding: 0.5rem;
+}
+
+#login_box {
+    align-content: center;
+    align-items: center;
+    padding: 2rem;
+    width: 100%;
+}
+
+#txt_field {
+    margin-top: 1rem;
+}
+
+#inpt_login {
+    padding: 1rem;
+}
+
+#inpt_password {
+    padding: 1rem;
+}
+
+#btn_submit {
+    margin-top: 2rem;
+    border-radius: 1.5rem;
+    border-color: black;
+    padding: 0.5rem;
+}
